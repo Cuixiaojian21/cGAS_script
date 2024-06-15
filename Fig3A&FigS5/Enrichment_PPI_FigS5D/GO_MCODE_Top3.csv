@@ -1,0 +1,13 @@
+Network,Annotation
+MyList,R-HSA-72766|Translation|-45.6;GO:0006412|translation|-44.5;GO:0043043|peptide biosynthetic process|-42.6
+MyList_MCODE_ALL,R-HSA-72766|Translation|-57.3;GO:0006412|translation|-54.7;GO:0043043|peptide biosynthetic process|-52.9
+MyList_SUB1_MCODE_1,R-HSA-199977|ER to Golgi Anterograde Transport|-21.0;R-HSA-948021|Transport to the Golgi and subsequent modification|-19.9;GO:0090114|COPII-coated vesicle budding|-19.6
+MyList_SUB1_MCODE_2,R-HSA-72766|Translation|-67.8;GO:0006412|translation|-66.9;GO:0043043|peptide biosynthetic process|-65.7
+MyList_SUB1_MCODE_3,"R-HSA-68886|M Phase|-7.7;R-HSA-1640170|Cell Cycle|-7.6;R-HSA-69278|Cell Cycle, Mitotic|-6.9"
+MyList_SUB1_MCODE_4,CORUM:7215|CCR4-NOT-CNOT8-CNOT6 complex|-20.9;CORUM:7216|CCR4-NOT-CNOT8-CNOT6L complex|-20.9;GO:0000289|nuclear-transcribed mRNA poly(A) tail shortening|-20.2
+MyList_SUB1_MCODE_5,R-HSA-70221|Glycogen breakdown (glycogenolysis)|-9.5;R-HSA-8982491|Glycogen metabolism|-8.5;WP500|Glycogen synthesis and degradation|-7.8
+MyList_SUB1_MCODE_6,R-HSA-5653656|Vesicle-mediated transport|-6.8;R-HSA-199991|Membrane Trafficking|-5.6;R-HSA-446652|Interleukin-1 family signaling|-5.5
+MyList_SUB1_MCODE_7,R-HSA-114608|Platelet degranulation|-5.9;R-HSA-76005|Response to elevated platelet cytosolic Ca2+|-5.9;GO:0002637|regulation of immunoglobulin production|-4.8
+MyList_SUB1_MCODE_8,GO:0043603|amide metabolic process|-5.5;GO:0048524|positive regulation of viral process|-5.2;GO:0006518|peptide metabolic process|-5.1
+MyList_SUB1_MCODE_9,GO:0030050|vesicle transport along actin filament|-7.1;GO:0099515|actin filament-based transport|-7.0;GO:1900024|regulation of substrate adhesion-dependent cell spreading|-5.6
+MyList_SUB1_MCODE_10,R-HSA-72163|mRNA Splicing - Major Pathway|-6.5;R-HSA-72172|mRNA Splicing|-6.5;R-HSA-72203|Processing of Capped Intron-Containing Pre-mRNA|-6.1

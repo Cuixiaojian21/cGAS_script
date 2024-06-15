@@ -1,0 +1,5 @@
+Network,Annotation
+MyList,R-HSA-72163|mRNA Splicing - Major Pathway|-16.2;R-HSA-72172|mRNA Splicing|-16.1;GO:0016071|mRNA metabolic process|-15.4
+MyList_MCODE_ALL,R-HSA-72163|mRNA Splicing - Major Pathway|-19.9;R-HSA-72172|mRNA Splicing|-19.7;R-HSA-72203|Processing of Capped Intron-Containing Pre-mRNA|-18.3
+MyList_SUB1_MCODE_1,CORUM:778|LARC complex (LCR-associated remodeling complex)|-10.4;R-HSA-72163|mRNA Splicing - Major Pathway|-10.4;R-HSA-72172|mRNA Splicing|-10.3
+MyList_SUB1_MCODE_2,GO:0006397|mRNA processing|-10.8;R-HSA-72163|mRNA Splicing - Major Pathway|-10.1;GO:0016071|mRNA metabolic process|-10.0
